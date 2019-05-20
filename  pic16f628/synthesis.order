@@ -1,0 +1,6 @@
+i<>.\src\ALU.v
+i<>.\src\P16F628A.v
+i<>.\src\P16F628A_IDec.v
+i<>.\src\TB\P16F628A_TB.v
+i<>.\src\P16F628.v
+i<>.\src\P16F628_IDec.v

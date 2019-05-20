@@ -1,0 +1,1 @@
+ -u "C:\Aldec\Active-HDL 9.1\bin/systf.dll" -v2k5  "c:\My_Designs\pic16f628\ pic16f628\src\TB\P16F628_TB.v"  -cs  -g 5  -r -li "c:\My_Designs\pic16f628\ pic16f628\compile\ pic16f628.epr" -p "c:\My_Designs\pic16f628\ pic16f628" 

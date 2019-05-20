@@ -1,0 +1,13 @@
+250
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 1 "./src/P16F628.v" 103 P16F628
+~A 1 "./src/P16F628.v" 103 P16F628
+~M 3 "./src/P16F628_IDec.v" 198 P16F628A_IDec
+~A 1 "./src/P16F628_IDec.v" 198 P16F628A_IDec
+~M 1 "./src/ALU.v" 77 P16F628_ALU
+~A 1 "./src/ALU.v" 77 P16F628_ALU
+~M 1 "./src/P16F628_IDec.v" 198 P16F628_IDec
+~A 1 "./src/P16F628_IDec.v" 198 P16F628_IDec
+~M 3 "./src/TB/P16F628_TB.v" 68 tb_P16F628
+~A 1 "./src/TB/P16F628_TB.v" 68 tb_P16F628

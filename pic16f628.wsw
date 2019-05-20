@@ -1,0 +1,13 @@
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\ pic16f628\src\ALU.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\ pic16f628\src\P16F628.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\ pic16f628\src\P16F628_IDec.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\ pic16f628\src\TB\P16F628_TB.v|]
+TemplateId=2
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\ pic16f628\src\TB\P16F628_TB_runtest.do|]
+TemplateId=6
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\ pic16f628\src\TB\P16F628_TB_settings.txt|]
+TemplateId=1
+ActiveDocument=1

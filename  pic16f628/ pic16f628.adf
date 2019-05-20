@@ -1,0 +1,67 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=_pic16f628
+
+[Library]
+_pic16f628=.\_pic16f628.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+REFRESH_FLOW=1
+FAMILY=<none>
+fileopenfolder=C:\Users\Кристина\Desktop\Новая папка\verilog-pic16f628-master\ pic16f628\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+_pic16f628=.
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Groups]
+TB=1
+
+[Files]
+/ALU.v=-1
+/P16F628.v=-1
+/P16F628_IDec.v=-1
+TB/P16F628_TB_settings.txt=-1
+
+[Files.Data]
+.\src\ALU.v=Verilog Source Code
+.\src\P16F628.v=Verilog Source Code
+.\src\P16F628_IDec.v=Verilog Source Code
+.\src\TB\P16F628_TB_settings.txt=Text File
+
